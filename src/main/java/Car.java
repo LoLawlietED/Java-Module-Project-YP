@@ -11,9 +11,6 @@ public class Car {
             return name;
         }
 
-        public int getSpeed(){
-            return speed;
-        }
 
         public int distance(){
             return speed*24;
